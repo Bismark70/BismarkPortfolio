@@ -73,19 +73,6 @@ npm run build
 
 ---
 
-
-## Put it online (free)
-
-The easiest host is **[Vercel](https://vercel.com)** (made by the Next.js team):
-
-1. Go to vercel.com → **Sign up with GitHub**.
-2. **Add New → Project** → pick your `portfoliowebsite` repo → **Deploy**.
-3. Done — you get a live `https://bismark-portfolio.vercel.app` link. Every `git push` now auto-redeploys the site.
-
-You can attach a custom domain (e.g. `bismarkobeng.com`) later in **Vercel → Settings → Domains**.
-
----
-
 ## Project structure
 
 ```
@@ -105,7 +92,7 @@ You can attach a custom domain (e.g. `bismarkobeng.com`) later in **Vercel → S
 
 ---
 
-## 🔧 Quick customisation cheat-sheet
+## Quick customisation cheat-sheet
 
 | I want to change… | Edit this in `src/lib/portfolio-data.ts` |
 | --- | --- |
